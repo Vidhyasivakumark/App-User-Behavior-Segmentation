@@ -1,5 +1,4 @@
-# App User Behavior Segmentation
-
+# 📊 App User Behavior Segmentation Using Unsupervised Machine Learning
 ## Objective
 Developed an unsupervised Machine Learning system to analyze and segment application users based on their behavior and activity patterns.
 
